@@ -1,3 +1,5 @@
+// Section 2: Programming a Guessing Name
+// Create program to guessing a random number
 use std::io;
 
 fn main() {
