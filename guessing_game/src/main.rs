@@ -1,7 +1,6 @@
 // Section 2: Programming a Guessing Name
 // Create program to guessing a random number
 
-use core::num;
 // import standard library i/o
 use std::io;
 
